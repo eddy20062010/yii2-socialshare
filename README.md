@@ -28,5 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \eddy20062010\socialshare\AutoloadExample::widget(); ?>```"# yii2-socialshare" 
+<?= \eddy20062010\socialshare\Socialshare::widget(); ?>```"# yii2-socialshare" 
 "# yii2-socialshare" 
