@@ -1,0 +1,21 @@
+{
+    "name": "eddy20062010/yii2-socialshare",
+    "description": "Socials Share Buttons",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edson Fufu",
+            "email": "eddy20062010@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "eddy20062010\\socialshare\\": ""
+        }
+    }
+}
